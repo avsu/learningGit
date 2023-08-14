@@ -2,10 +2,5 @@ this is something i added in the master branch
 
 this is something i merged in from another branch
 
-fake bug 
-fake bug 
-fake bug 
-fake bug 
-fake bug 
 
 this should still exist after reverts
